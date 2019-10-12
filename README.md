@@ -1,1 +1,2 @@
-# Internet-Servisi-I-Tehnologije
+# Internet-Tehnologije-I-Servisi
+# Aleksandar Radosavljevic
